@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I am Guillaume, from France. I am an Associate Professor in Machine Learning at Shanghai Jiao Tong University (SJTU). I am a faculty member of the SJTU Paris Elite Institute of Technology, an international research and teaching institute established at SJTU in partnership with four leading French engineering schools: École Polytechnique, Mines Paris, Télécom Paris, and ENSTA.
+I am Guillaume, from France. I am an Associate Professor at Shanghai Jiao Tong University (SJTU). I am a faculty member of the SJTU Paris Elite Institute of Technology, an international research and teaching institute established at SJTU in partnership with four leading French engineering schools: École Polytechnique, Mines Paris, Télécom Paris, and ENSTA.
 
 On this page, you will find a glimpse into some of the projects I've worked on in recent years. My current research interests span the broad areas of deep learning, large language models (LLMs), recommender systems, graph learning, and their applications.
 
