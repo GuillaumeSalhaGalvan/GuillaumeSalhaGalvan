@@ -6,7 +6,7 @@ I am Guillaume, from France. I am an Associate Professor in Machine Learning at 
 
 On this page, you will find a glimpse into some of the projects I've worked on in recent years. My current research interests span the broad areas of deep learning, large language models (LLMs), recommender systems, graph learning, and their applications.
 
-You will also find music analysis and recommendation projects related to my previous role as a Research Scientist and Coordinator at the French music streaming service Deezer, as well as code and data from my previous doctoral research at École Polytechnique on representation learning with graph autoencoders (node embedding, link prediction, community detection, etc.).
+You will also find music analysis and recommendation projects related to my previous role as a Research Scientist and Coordinator at the French music streaming service Deezer, as well as code and data from my doctoral research at École Polytechnique on representation learning with graph autoencoders (node embedding, link prediction, community detection, etc.).
 
 I invite you to visit [my website](https://guillaumesalhagalvan.com/) for a list of my publications, with links to GitHub repositories and related resources for each of them.
 
