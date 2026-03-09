@@ -1,13 +1,13 @@
-### Hi there! 👋 🎵
+### Hi there!
 
-Welcome to my GitHub profile. 
+Welcome to my GitHub profile.
 
-This space offers a glimpse into some of the projects I've worked on in recent years.
+I am Guillaume, from France. I am an **Associate Professor** in Machine Learning at **Shanghai Jiao Tong University (SJTU)**. I am a faculty member of the **SJTU Paris Elite Institute of Technology**, an international research and teaching institute established at SJTU in partnership with four leading French engineering schools: École Polytechnique, Mines Paris, Télécom Paris, and ENSTA.
 
-Most notably, you will find **recommender system** projects related to my recent role as a [Research Scientist and Coordinator for Music Recommendation](https://www.linkedin.com/in/guillaumesalhagalvan/) for the French music streaming service [Deezer](https://www.deezer.com/). Several older repositories also provide access to code and data from my [doctoral research](https://guillaumesalhagalvan.com/doc/phdthesis_gsalhagalvan.pdf) on representation learning with **graph autoencoders** (node embedding, link prediction, community detection, etc) applied to music information retrieval and recommendation problems.
+On this page, you'll find a glimpse into some of the projects I've worked on in recent years. My current research interests span the broad areas of **machine/deep learning**, **large language models (LLMs)**, **recommender systems**, **graph learning**, and their **real-world applications**.
+
+You will also find **music analysis and recommendation** projects related to my previous role as a **Research Scientist and Coordinator** at the French music streaming service **Deezer**, as well as code and data from my previous **doctoral research** at **École Polytechnique** on **representation learning with graph autoencoders** (node embedding, link prediction, community detection, etc.).
 
 I invite you to visit [my website](https://guillaumesalhagalvan.com/) for a complete list of my publications, with direct links to GitHub repositories and related resources for each of them.
-
-I will soon start a new role as Associate Professor in Machine Learning at [SJTU](https://en.sjtu.edu.cn/).
 
 I am always looking for professionals with common interests to learn and share experience, so feel free to reach out!
