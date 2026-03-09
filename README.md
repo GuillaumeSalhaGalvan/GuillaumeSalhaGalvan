@@ -8,6 +8,6 @@ On this page, you'll find a glimpse into some of the projects I've worked on in 
 
 You will also find music analysis and recommendation projects related to my previous role as a Research Scientist and Coordinator at the French music streaming service Deezer, as well as code and data from my previous doctoral research at École Polytechnique on representation learning with graph autoencoders (node embedding, link prediction, community detection, etc.).
 
-I invite you to visit [my website](https://guillaumesalhagalvan.com/) for a complete list of my publications, with direct links to GitHub repositories and related resources for each of them.
+I invite you to visit [my website](https://guillaumesalhagalvan.com/) for a list of my publications, with links to GitHub repositories and related resources for each of them.
 
 I am always looking for professionals with common interests to learn and share experience, so feel free to reach out!
